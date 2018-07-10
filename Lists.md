@@ -1,5 +1,3 @@
-## Port of [Awesome-Minimalist] (https://github.com/neiesc/awesome-minimalist)
-
 List of minimalist frameworks
 =========================
 A list of minimalist frameworks (simple and lightweight). All in alphabetical order.
@@ -32,16 +30,20 @@ Name | Minimum size (base) | Repository | License
 [Base](http://git.io/base) | 2.95 KiB (minified + gzipped) | https://github.com/matthewhartman/base | [MIT](http://opensource.org/licenses/mit-license.php)
 [Bass](http://www.basscss.com/) | 3.79 KiB (minified + gzipped) | https://github.com/jxnblk/basscss | [MIT](http://opensource.org/licenses/MIT)
 [Bijou](http://andhart.github.io/bijou) | 1.065 KiB (minified and gzipped) | https://github.com/andhart/bijou | [MIT](http://opensource.org/licenses/mit-license.php)
+[Blaze CSS](http://blazecss.com/) | 182.5 KiB (minified and gzipped) | https://github.com/BlazeCSS/blaze | [MIT](http://opensource.org/licenses/mit-license.php)
 [Cardinal](http://cardinalcss.com) | 4.25 KiB (minified and gzipped) | https://github.com/cbracco/cardinal | [MIT](http://opensource.org/licenses/mit-license.php)
 [Cascade Framework](http://www.cascade-framework.com/) | 10.6 KiB (all modules) | https://github.com/jslegers/cascadeframework | [MIT](http://opensource.org/licenses/MIT)
 [Cascade Framework Light](http://jslegers.github.io/cascadeframeworklight/) | 2.0 KiB (all modules) | https://github.com/jslegers/cascadeframeworklight | [MIT](http://opensource.org/licenses/MIT)
 [Concise CSS](http://concisecss.com/) | 3.46 kiB (Core: minified + gzipped) | https://github.com/ConciseCSS/concise.css | [MIT](http://opensource.org/licenses/MIT)
 [Concrete](http://davidlumley.github.io/concrete/) | 3.2 KiB | https://github.com/davidlumley/concrete | [MIT](http://opensource.org/licenses/MIT)
+[Furtive](http://furtive.co/) | 2.47 KiB | https://github.com/johnotander/furtive | [MIT](http://opensource.org/licenses/MIT)
 [iceCream](http://html5-ninja.com/icecream/) | 1.8 Kib (minified) | http://html5-ninja.com/icecream/ | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
+[Kaliber](https://robbinfellow.github.io/kaliber/) | 6KB (minified + gzipped) | https://github.com/robbinfellow/kaliber | [MIT](http://opensource.org/licenses/MIT)
 [KNACSS](http://knacss.com/) | 13.2 KiB (all modules) | https://github.com/raphaelgoetter/KNACSS | [WTFPL](https://en.wikipedia.org/wiki/WTFPL)
 [Kube](http://imperavi.com/kube/) | 15.2 KiB | https://github.com/sashka/kube | [MIT](http://opensource.org/licenses/MIT)
-[Milligram](http://milligram.github.io/) | 2.0 KiB (minified and gzipped) | https://github.com/milligram/milligram | [MIT](http://opensource.org/licenses/MIT)
-[Min](http://minfwk.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
+[Lesli CSS](https://www.lesli.tech/css) | 37.3 KiB | https://github.com/LesliTech/LesliCSS | [GNU](http://www.gnu.org/licenses/gpl-2.0.html)
+[Milligram](http://milligram.io/) | 2.0 KiB (minified and gzipped) | https://github.com/milligram/milligram | [MIT](http://opensource.org/licenses/MIT)
+[Min](https://mincss.com/) | 0.9 KiB (minified and gzipped) | https://github.com/owenversteeg/min | [MIT](http://opensource.org/licenses/MIT)
 [mini.css](https://chalarangelo.github.io/mini.css/) | 7KB (minified + gzipped) | https://github.com/Chalarangelo/mini.css | [MIT](http://opensource.org/licenses/MIT)
 [Mistype](https://github.com/ZDroid/mistype) | 2.1 KiB | https://github.com/ZDroid/mistype | [MIT](http://opensource.org/licenses/MIT)
 [Picnic CSS](http://www.picnicss.com/) | 3.0 KiB (minified and gzipped) | https://github.com/picnicss/picnic | [MIT](http://opensource.org/licenses/MIT)
@@ -161,10 +163,12 @@ Name | Repository | License
 [Bullet](http://bulletphp.com/)| https://github.com/vlucas/bulletphp | [MIT](http://opensource.org/licenses/MIT)
 [CrudKit](http://crudkit.com/)| https://github.com/skyronic/crudkit/ | [MIT](http://opensource.org/licenses/MIT)
 [Deano](http://github.com/colindean/deano) | http://github.com/colindean/deano | [MIT](http://opensource.org/licenses/MIT)
+[Equip Framework](https://equipframework.readthedocs.io/en/latest/) | https://github.com/equip/framework | [MIT](http://opensource.org/licenses/MIT)
 [Fat Free](http://fatfreeframework.com/) | https://github.com/bcosca/fatfree | [GPL 3](http://www.gnu.org/licenses/gpl-3.0.html)
 [Fitzgerald](http://gregmolnar.github.io/fitzgerald/) | https://github.com/gregmolnar/fitzgerald | [MIT](http://opensource.org/licenses/MIT)
 [Flight](http://flightphp.com/) | https://github.com/mikecao/flight | [MIT](http://opensource.org/licenses/MIT)
 [Frankie Framework](http://frankie.readthedocs.org/en/develop/) | https://github.com/wdalmut/frankie | [MIT](http://opensource.org/licenses/MIT)
+[IceHawk Framework](https://icehawk.github.io/) | https://github.com/icehawk/icehawk | [MIT](http://opensource.org/licenses/MIT)
 [Hackwork](https://github.com/ZDroid/hackwork) | https://github.com/ZDroid/hackwork | [MIT](http://opensource.org/licenses/MIT)
 [Limonade](http://limonade-php.github.io/)| https://github.com/sofadesign/limonade | Unknown
 [Lumen](https://lumen.laravel.com/)| https://github.com/laravel/lumen | [MIT](http://opensource.org/licenses/MIT)

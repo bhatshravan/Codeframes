@@ -3,6 +3,7 @@ The ultimate repository of all programming skills,major languages,their most pop
 From common softwares for the common user to developer skill languages,we aim to list all the major platforms.
 
 [To contribute to our project](contribute.md)
+
 [Donations](Donate.md)
 
 ### What we list about the languages/Softwares
@@ -17,14 +18,14 @@ From common softwares for the common user to developer skill languages,we aim to
 
 ## List
 * [Categories of software and languages](Categories/)
-* [List of all languages we have listed](https://github.com/bhatshravan/codeframes/Languages/)
+* [List of all languages we have listed](https://github.com/bhatshravan/codeframes/Languages listed.md/)
 
 Misc:
-* List of all minimalist frameworks. [PORT](https://github.com/bhatshravan/codeframes/Lists.md) , [Github](https://github.com/neiesc/awesome-minimalist)
-* Awesome list - [PORT](https://github.com/bhatshravan/codeframes/awesome.md)
+* [List of all minimalist frameworks.](https://github.com/bhatshravan/codeframes/Lists.md) , [Ported from](https://github.com/neiesc/awesome-minimalist)
+* [Awesome list](https://github.com/bhatshravan/codeframes/Awesome.md) - [Ported from](https://github.com/bhatshravan/codeframes/awesome.md)
 
 ---
-## Categories List
+## Categories List (Planned)
 * Audio
 * Database
 * Games Designing
